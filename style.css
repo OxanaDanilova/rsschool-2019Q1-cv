@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 1020px;
+    font-size: 16px;
+  
+}
+
+
+
+ header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; 
+    background-color:  #00ab94;
+      
+} 
+
+.title{
+  position: relative;
+  text-align: justify;
+  font-family: "Maven Pro", "Georgia", sans-serif;
+  font-size: 65px;
+  color: rgba(215, 252, 245, 255);
+  
+ 
+}
+
+
+.content {
+  position: absolute;
+  width: 800px;
+  top: 200px;
+  left: 220px;
+  background-color: #6ccbbe;
+ 
+  
+} 
+
+.profile {
+  position: relative;
+  top: 30px;
+  left: 220px;
+  height: 200px;
+  }
+
+.subtitle {
+  font-family: "Maven Pro", "Georgia", sans-serif;
+  font-size: 40px;
+  color: rgba(32, 129, 109, 255);
+  text-align: justify;
+  letter-spacing: 0.015em;
+ 
+}
+
+.profile:after {
+  content: "";
+  position: absolute;
+  width: 400px;
+  border: rgb(7, 7, 7) 1px solid;
+  bottom: 146px;
+}
+
+.info {
+  position: relative;
+  top: 23px;
+  height: 200px;
+  width: 550px;
+  font-family: "Maven Pro","Georgia", sans-serif;
+  font-size: 23px;
+  color: rgba(32, 129, 109, 255);
+  text-align: justify;
+}
+
+
+
+.image {
+  width: 220px;
+  height: 1200px;
+  top: 200px;
+  left: 20px;
+  background-color: #5ebfb2;
+ 
+} 
+
+
+
+.pic {
+  position: relative;
+  top: 63px;
+  left: 35px;
+  width: 350px;
+  height: 400px;
+  border-radius: 40px;
+    
+}
+
+
+.footer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background-color: #00ab94;
+  font-family: "Maven Pro", "Georgia", sans-serif;
+  font-size: 15px;
+}
