@@ -12,6 +12,6 @@
 ------------------------
 
 **Projeckt name**|**Description**|**Link**
---------|--------------------
+-----------------|---------------|-----
 **Calculator**| This application alloys to perform simple mathematik operations. Application is based on 'create-react-app'. This is my first simple react application. |  https://calculator-oxanadanilova.netlify.app/ 
 
