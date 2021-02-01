@@ -13,5 +13,12 @@
 
 **Projeckt name**|**Description**|**Link**
 -----------------|---------------|-----
-**Calculator**| This application allows to perform simple mathematical operations. User can input numbers by clicking on buttons or by using keyboard. Application is based on 'create-react-app'. This is my first simple react application. I used here JSX, CSS, JS, Flex, Grid |  https://calculator-oxanadanilova.netlify.app/ 
+**Calculator**| This application allows to perform simple mathematical operations. User can input numbers by clicking on buttons or by using keyboard. Application is based on 'create-react-app'. This is my first simple react application. I used here JSX, CSS, JS |  https://calculator-oxanadanilova.netlify.app/ 
+**Webdev**|  This is a static Web page. I used here HTML, CSS, Flexbox |  https://my-webdev.netlify.app/ 
 
+
+
+
+
+
+https://my-webdev.netlify.app/
